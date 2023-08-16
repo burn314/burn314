@@ -1,0 +1,7 @@
+{
+  "SendTraffic" : true,
+  "TimeToPopUpSendTraffic" : 1500,
+  "GameURL" : "https://play.google.com/store/apps/details?id=com.GamingYOPs.myfriendlyneighborhood",
+  "ImageURL" : "https://github.com/YassirXDEV/JsonHost/blob/main/friendlyicon.png?raw=true",
+  "Title" : "Try This Game Now !"
+}
